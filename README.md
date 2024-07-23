@@ -1,6 +1,12 @@
 # Hi there, I'm Santhosh 👋
 
+
+## About Me
+🎓 Student | B.Tech Artificial Intelligence and Data Science  
+💻 React.js Developer
 ### Most Used Languages
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
