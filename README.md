@@ -1,7 +1,5 @@
 ![Header](https://github.com/SANDHOSH02/README/raw/main/github-header-image.png)
 
-# Hi there, I'm Santhosh 👋
-
 
 ## About Me
 🎓 Student | B.Tech Artificial Intelligence and Data Science  
