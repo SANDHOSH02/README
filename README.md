@@ -4,13 +4,12 @@
 ## About Me
 🎓 Student | B.Tech Artificial Intelligence and Data Science  
 💻 React.js Developer
+
 ### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SANDHOSH02" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANDHOSH02&layout=compact&langs_count=8&card_width=320" />
 </a>
