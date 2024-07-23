@@ -39,3 +39,8 @@
     <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="60" height="60" style="border: 2px solid #ccc; padding: 10px; margin: 10px; border-radius: 10px;"/>
   </a>
 </p>
+
+
+
+### WakaTime Stats
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SANDHOSH02)](https://github.com/anuraghazra/github-readme-stats)
