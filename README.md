@@ -6,8 +6,10 @@
 💻 React.js Developer
 ### Most Used Languages
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDHOSH02&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+### WakaTime Stats
+[![Santhosh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SANDHOSH02)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <p align="left">
